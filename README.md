@@ -1,20 +1,14 @@
 # Classic Arcade Game Clone Project
 
-## Table of Contents
+## MySubscriptions
+> In this game, you are a Player and there are Enemies (bugs). The goal of the game is to reach the water, without colliding into any one of the enemies. 
+- To prevent colliding you can *move the player left, right, up and down*
+- The enemies move at varying speeds so be careful :)
+- if colliding happened, you will move back to the starting square.
+Have fun!
+## Features
+...
 
-- [Instructions](#instructions)
-- [Contributing](#contributing)
-
-## Instructions
-
-Use this [rubric](https://review.udacity.com/#!/rubrics/15/view) for self-checking your submission.
-
-Make sure the functions you write are **object-oriented** - either class functions (like `Player` and `Enemy`) or class prototype functions such as `Enemy.prototype.checkCollisions`. Also make sure that the keyword `this` is used appropriately within your class and class prototype functions to refer to the object the function is called upon.
-
-Your **README.md** file should be updated with instructions on both how to 1. Run and 2. Play your arcade game.
-
-For detailed instructions on how to get started, check out this [guide](https://docs.google.com/document/d/1v01aScPjSWCCWQLIpFqvg3-vXLH2e8_SZQKC8jNO0Dc/pub?embedded=true).
-
-## Contributing
-
-This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
+## Requirements
+- web browser.
+- keyboard.
