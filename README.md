@@ -7,14 +7,14 @@
 Have fun!
 
 ## Requirements
-- web browser.
-- keyboard.
+- Web browser.
+- Keyboard.
 
 ## Download the repositoryts
 1. On GitHub, navigate to the main page of the repository. The URL for repository https://github.com/AmalAlqadhibi/Classic-Arcade-Game
 2. Under the repository name, click Clone or download.
 3. Choose Download ZIP the unZIP the file. 
-4. Open index.html file
+4. Open index.html file.
 5. Have fun!
 
 ## Clone the repositoryts
@@ -23,6 +23,6 @@ Have fun!
 3. To clone the repository using HTTPS, under "Clone with HTTPS", copy the link .
 4. Open Terminal.
 5. Change the current working directory to the location where you want the cloned directory to be made.
-6. Type git clone, and then paste the URL you copied in Step 3.
-`$ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY ` <br /> 
+6. Type git clone, and then paste the URL you copied in Step 3.<br /> 
+`$ git clone https://github.com/AmalAlqadhibi/Classic-Arcade-Game.git` <br /> 
 7. Press Enter. Your local clone will be created.
