@@ -78,7 +78,6 @@ var Engine = (function(global) {
      * on the entities themselves within your app.js file).
      */
     function update(dt) {
-        //TODO:- هنا سويت كومت
         updateEntities(dt);
         checkCollisions();
     }
@@ -94,7 +93,6 @@ var Engine = (function(global) {
         allEnemies.forEach(function(enemy) {
             enemy.update(dt);
         });
-        player.update(dt);
     }
 
     /* This function initially draws the "game level", it will then call
